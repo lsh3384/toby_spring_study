@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;springbook.user.toby&apos; to &apos;springbook.user.domain&apos;&#x0D;&#x0A;- Original project: &apos;toby_spring_study&apos;&#x0D;&#x0A;- Original element: &apos;toby_spring_study/src/main/java/springbook.user.toby&apos;&#x0D;&#x0A;- Renamed element: &apos;toby_spring_study/src/main/java/springbook.user.domain&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;springbook.user.toby&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/gradle_scope=/main=/=/gradle_used_by_scope=/main,test=/&lt;springbook.user.toby" name="springbook.user.domain" qualified="false" references="true" stamp="1668522289099" textual="false" version="1.0"/>
+</session>
